@@ -18,4 +18,4 @@ used if you have cloned the repository on your computer and edited it locally an
 ## Implementation notes
 You will likely be prompted for your Github credentials *twice* whenever you run a script which syncs the wiki repos. So pay attention
 to the scripts output! And if you don't already know, if you use 2FA in Github the password you put in will not be your password, but 
-rather a "Personal Access Token" which must be generated with the `repo` permission here: https://github.com/settings/tokens (or, alternatively, use [SSH Keys](https://help.github.com/articles/connecting-to-github-with-ssh/)
+rather a "Personal Access Token" which must be generated with the `repo` permission here: https://github.com/settings/tokens (or, alternatively, use [SSH Keys](https://help.github.com/articles/connecting-to-github-with-ssh/)).
